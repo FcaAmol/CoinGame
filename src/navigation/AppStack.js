@@ -1,4 +1,4 @@
-import Login from "../screens/Login";
+
 import { createStackNavigator } from "@react-navigation/stack";
 
 // const Tab = createMaterialBottomTabNavigator();
